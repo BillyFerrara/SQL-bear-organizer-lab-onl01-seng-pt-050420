@@ -5,4 +5,3 @@ insert into bears (name, age, gender, color, temperment, alive) values ('Sergean
 insert into bears (name, age, gender, color, temperment, alive) values ('Melissa', 12, 'F', 'red', 'relaxed', 0);
 insert into bears (name, age, gender, color, temperment, alive) values ('Grinch', 11, 'M', 'green', 'grouchy', 1);
 insert into bears (name, age, gender, color, temperment, alive) values ('Wendy', 12, 'F', 'blue', 'sweet', 1);
-  
